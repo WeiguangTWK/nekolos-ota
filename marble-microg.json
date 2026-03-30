@@ -4,8 +4,8 @@
       "datetime": 1774873760,
       "filename": "LineageOS-23.2-MicroG-20260330.zip",
       "id": "LineageOS-23.2-MicroG-20260330",
-      "romtype": "nightly",
-      "size": 2305509605,
+      "romtype": "unofficial-microg",
+      "size": 2305508177,
       "url": "https://psychz.dl.sourceforge.net/project/neko-lineageos-marble/20260330/LineageOS-23.2-MicroG-20260330.zip",
       "version": "23.2"
     }
