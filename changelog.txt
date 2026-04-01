@@ -1,0 +1,32 @@
+Changelog
+
+Upstream LineageOS changes: https://download.lineageos.org/devices/marble/changes
+
+Neko-LOS changelog
+
+20260401
+- Update TEESimulator upstream & fix keybox with with comments could break functionality
+
+20260331
+- Update MicroG
+- Allow enable TEESimulator for sys apps
+- Disable FPS limitation by default
+- Add install source spoof switch
+- Slightly adjust auto brightness behavior
+- Enable OTA update
+
+20260325
+- Add MicroG variant
+- MIUI Cam
+
+20260322
+- Eliminate all known detection face
+- TEESimulator integration
+
+20260317
+- Reduce detectionface
+- Add a switch to block LineageOS apps visibility
+- Add zh-rCN tranlation for ParanoidSence
+
+20260313
+- Add face unlock (Powered by ParanoidSense)
