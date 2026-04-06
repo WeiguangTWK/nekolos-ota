@@ -1,30 +1,60 @@
 {
   "response": [
     {
-      "datetime": 1775047372,
-      "filename": "LineageOS-23.2-MicroG-20260401.zip",
-      "id": "LineageOS-23.2-MicroG-20260401",
-      "romtype": "unofficial-microg",
-      "size": 2305487028,
-      "url": "https://master.dl.sourceforge.net/project/neko-lineageos-marble/20260401/LineageOS-23.2-MicroG-20260401.zip?viasf=1",
-      "version": "23.2"
-    },
-    {
-      "datetime": 1775047372,
-      "filename": "LineageOS-23.2-NoGMS-20260401.zip",
-      "id": "LineageOS-23.2-NoGMS-20260401",
-      "romtype": "unofficial-nogms",
-      "size": 2185692230,
-      "url": "https://onboardcloud.dl.sourceforge.net/project/neko-lineageos-marble/20260401/LineageOS-23.2-NOGMS-20260401.zip?viasf=1",
-      "version": "23.2"
-    },
-    {
-      "datetime": 1775047372,
-      "filename": "LineageOS-23.2-GMS-20260401.zip",
-      "id": "LineageOS-23.2-GMS-20260401",
+      "datetime": 1775394316,
+      "filename": "LineageOS-23.2-GMS-20260405.zip",
+      "id": "LineageOS-23.2-GMS-20260405",
       "romtype": "unofficial-gms",
-      "size": 2489272513,
-      "url": "https://master.dl.sourceforge.net/project/neko-lineageos-marble/20260401/LineageOS-23.2-GMS-20260401.zip?viasf=1",
+      "size": 2489299516,
+      "url": "https://pilotfiber.dl.sourceforge.net/project/neko-lineageos-marble/20260405/LineageOS-23.2-GMS-20260405.zip?viasf=1",
+      "version": "23.2"
+    },
+    {
+      "datetime": 1775394316,
+      "filename": "LineageOS-23.2-MicroG-20260405.zip",
+      "id": "LineageOS-23.2-MicroG-20260405",
+      "romtype": "unofficial-microg",
+      "size": 2305568390,
+      "url": "https://cytranet-dal.dl.sourceforge.net/project/neko-lineageos-marble/20260405/LineageOS-23.2-MicroG-20260405.zip?viasf=1",
+      "version": "23.2"
+    },
+    {
+      "datetime": 1775394316,
+      "filename": "LineageOS-23.2-NoGMS-20260405.zip",
+      "id": "LineageOS-23.2-NoGMS-20260405",
+      "romtype": "unofficial-nogms",
+      "size": 2185743579,
+      "url": "https://gigenet.dl.sourceforge.net/project/neko-lineageos-marble/20260405/LineageOS-23.2-NoGMS-20260405.zip?viasf=1",
+      "version": "23.2"
+    },
+    {
+      "datetime": 1775394316,
+      "min_base_datetime": 1775047372,
+      "filename": "incremental-20260401-20260405-gms.zip",
+      "id": "incremental-20260401-20260405-gms",
+      "romtype": "unofficial-gms",
+      "size": 21222962,
+      "url": "https://netactuate.dl.sourceforge.net/project/neko-lineageos-marble/20260405/incremental/incremental-20260401-20260405-gms.zip?viasf=1",
+      "version": "23.2"
+    },
+    {
+      "datetime": 1775394316,
+      "min_base_datetime": 1775047372,
+      "filename": "incremental-20260401-20260405-microg.zip",
+      "id": "incremental-20260401-20260405-microg",
+      "romtype": "unofficial-microg",
+      "size": 21131769,
+      "url": "https://gigenet.dl.sourceforge.net/project/neko-lineageos-marble/20260405/incremental/incremental-20260401-20260405-microg.zip?viasf=1",
+      "version": "23.2"
+    },
+    {
+      "datetime": 1775394316,
+      "min_base_datetime": 1775047372,
+      "filename": "LineageOS-23.2-NoGMS-20260405.zip",
+      "id": "LineageOS-23.2-GMS-20260405",
+      "romtype": "unofficial-nogms",
+      "size": 21047166,
+      "url": "https://cfhcable.dl.sourceforge.net/project/neko-lineageos-marble/20260405/incremental/incremental-20260401-20260405-nogms.zip?viasf=1",
       "version": "23.2"
     }
   ]
