@@ -1,7 +1,6 @@
 # KNOWN ISSUE in 0419:
 - BHIM QR Scanner doesn't work
-- Amazon Pay UPI doesn't work
 
 # What's new
-- Sync upstream
-- Add Dolby Atoms
+- Sync LOS upstream
+- Sync Microroft Mimalloc to 3.3.1
