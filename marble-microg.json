@@ -5,7 +5,7 @@
       "filename": "LineageOS-23.2-GMS-20260508.zip",
       "id": "LineageOS-23.2-GMS-20260508",
       "romtype": "unofficial-gms",
-      "size": 2509033305,
+      "size": 2509079650,
       "url": "https://master.dl.sourceforge.net/project/neko-lineageos-marble/20260508/LineageOS-23.2-GMS-20260508.zip?viasf=1",
       "version": "23.2"
     },
@@ -14,7 +14,7 @@
       "filename": "LineageOS-23.2-MicroG-20260508.zip",
       "id": "LineageOS-23.2-MicroG-20260508",
       "romtype": "unofficial-microg",
-      "size": 2325032393,
+      "size": 2325079450,
       "url": "https://master.dl.sourceforge.net/project/neko-lineageos-marble/20260508/LineageOS-23.2-MICROG-20260508.zip?viasf=1",
       "version": "23.2"
     },
@@ -23,7 +23,7 @@
       "filename": "LineageOS-23.2-NoGMS-20260508.zip",
       "id": "LineageOS-23.2-NoGMS-20260508",
       "romtype": "unofficial-nogms",
-      "size": 2205041355,
+      "size": 2205089983,
       "url": "https://master.dl.sourceforge.net/project/neko-lineageos-marble/20260508/LineageOS-23.2-NOGMS-20260508.zip?viasf=1",
       "version": "23.2"
     },
@@ -33,7 +33,7 @@
       "filename": "incremental-20260501-20260505-gms.zip",
       "id": "incremental-20260501-20260505-gms",
       "romtype": "unofficial-gms",
-      "size": 24542497,
+      "size": 23530660,
       "url": "https://master.dl.sourceforge.net/project/neko-lineageos-marble/20260505/incremental/incremental-20260501-20260505-gms.zip?viasf=1",
       "version": "23.2"
     },
@@ -43,7 +43,7 @@
       "filename": "incremental-20260501-20260505-microg.zip",
       "id": "incremental-20260501-20260505-microg",
       "romtype": "unofficial-microg",
-      "size": 24536875,
+      "size": 23524023,
       "url": "https://master.dl.sourceforge.net/project/neko-lineageos-marble/20260505/incremental/incremental-20260501-20260505-microg.zip?viasf=1",
       "version": "23.2"
     },
@@ -53,7 +53,7 @@
       "filename": "incremental-20260501-20260505-nogms.zip",
       "id": "incremental-20260501-20260505-nogms",
       "romtype": "unofficial-nogms",
-      "size": 24542071,
+      "size": 23527706,
       "url": "https://master.dl.sourceforge.net/project/neko-lineageos-marble/20260505/incremental/incremental-20260501-20260505-nogms.zip?viasf=1",
       "version": "23.2"
     }
